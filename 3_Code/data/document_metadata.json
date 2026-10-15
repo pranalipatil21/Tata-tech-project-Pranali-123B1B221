@@ -1,0 +1,26 @@
+{
+  "c4993e1626ea8508": {
+    "doc_id": "c4993e1626ea8508",
+    "filename": "NaynaAi_.docx.pdf",
+    "filepath": "D:\\Downloads\\AUTOSAR_HLD_Analysis_Assistant\\3_Code\\data\\uploads\\NaynaAi_.docx.pdf",
+    "file_hash": "c4993e1626ea850816b0b1775785cc0111d9b82cc510d01f47644075b4550ee4",
+    "total_pages": 5,
+    "file_size_kb": 380.61,
+    "upload_timestamp": "2026-10-15 20:06:31",
+    "chunk_count": 13,
+    "is_scanned_or_empty": false,
+    "status": "indexed"
+  },
+  "507839bc7e58dc2f": {
+    "doc_id": "507839bc7e58dc2f",
+    "filename": "Sample_AUTOSAR_HLD_Test_Document.pdf",
+    "filepath": "D:\\Downloads\\AUTOSAR_HLD_Analysis_Assistant\\3_Code\\data\\uploads\\Sample_AUTOSAR_HLD_Test_Document.pdf",
+    "file_hash": "507839bc7e58dc2fc5a49e43a9267cdfd603c604dfa8ee613b9bf1d270e6ab50",
+    "total_pages": 6,
+    "file_size_kb": 78.44,
+    "upload_timestamp": "2026-10-15 22:16:56",
+    "chunk_count": 6,
+    "is_scanned_or_empty": false,
+    "status": "indexed"
+  }
+}
